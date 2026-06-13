@@ -10,8 +10,8 @@ Each writeup follows a consistent format: vulnerability description, steps taken
 
 Cybersecurity student from India, currently pursuing my degree with a focus on penetration testing and network security. These labs are part of my hands-on journey into offensive security.
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/sabarinathkv/
+- Email: sabarinathkv369@gmail.com
 
 ---
 
