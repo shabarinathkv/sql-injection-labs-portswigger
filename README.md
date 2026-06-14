@@ -22,9 +22,9 @@ Cybersecurity student from India, currently pursuing my degree with a focus on p
 | 01 | [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](lab-01-where-clause-hidden-data.md) | UNION / Filter bypass | Apprentice |
 | 02 | [SQL injection vulnerability allowing login bypass](lab-02-login-bypass.md) | Comment injection | Apprentice |
 | 03 | [SQL injection UNION attack — determining number of columns](lab-03-union-number-of-columns.md) | UNION-based | Practitioner |
-| 04 | Lab 04 — SQL injection UNION attack, finding a column containing text | UNION-based | Practitioner |
-| 05 | Lab 05 — SQL injection UNION attack, retrieving data from other tables | UNION-based | Practitioner |
-| 06 | Lab 06 — SQL injection UNION attack, retrieving multiple values in a single column | UNION-based | Practitioner |
+| 04 | Lab 04 — SQL injection UNION attack, finding a column containing text(lab-04-union-find-text-column.md)| UNION-based | Practitioner |
+| 05 | Lab 05 — SQL injection UNION attack, retrieving data from other tables(lab-05-union-retrieve-data-other-tables.md) | UNION-based | Practitioner |
+| 06 | Lab 06 — SQL injection UNION attack, retrieving multiple values in a single column(lab-06-union-multiple-values-single-column.md) | UNION-based | Practitioner |
 | 07 | Lab 07 — SQL injection attack, querying the database type and version (Oracle) | Error-based | Practitioner |
 | 08 | Lab 08 — SQL injection attack, querying the database type and version (MySQL/MSSQL) | Error-based | Practitioner |
 | 09 | Lab 09 — SQL injection attack, listing the database contents (non-Oracle) | Enumeration | Practitioner |
