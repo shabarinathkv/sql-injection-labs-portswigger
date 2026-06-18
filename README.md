@@ -25,9 +25,9 @@ Cybersecurity student from India, currently pursuing my degree with a focus on p
 | 04 | Lab 04 — [SQL injection UNION attack, finding a column containing text](lab-04-union-find-text-column.md)| UNION-based | Practitioner |
 | 05 | Lab 05 — [SQL injection UNION attack, retrieving data from other tables](lab-05-union-retrieve-data-other-tables.md) | UNION-based | Practitioner |
 | 06 | Lab 06 — [SQL injection UNION attack, retrieving multiple values in a single column](lab-06-union-multiple-values-single-column.md) | UNION-based | Practitioner |
-| 07 | Lab 07 — [SQL injection attack, querying the database type and version (Oracle)](lab-07-querying-database-version-oracle) | Error-based | Practitioner |
-| 08 | Lab 08 — [SQL injection attack, querying the database type and version (MySQL/MSSQL)](lab-08-querying-database-version-mysql-mssql) | Error-based | Practitioner |
-| 09 | Lab 09 — [SQL injection attack, listing the database contents (non-Oracle)](lab-09-listing-database-contents-non-oracle) | Enumeration | Practitioner |
+| 07 | Lab 07 — [SQL injection attack, querying the database type and version (Oracle)](lab-07-querying-database-version-oracle.md) | Error-based | Practitioner |
+| 08 | Lab 08 — [SQL injection attack, querying the database type and version (MySQL/MSSQL)](lab-08-querying-database-version-mysql-mssql.md) | Error-based | Practitioner |
+| 09 | Lab 09 — [SQL injection attack, listing the database contents (non-Oracle)](lab-09-listing-database-contents-non-oracle.md) | Enumeration | Practitioner |
 | 10 | Lab 10 — SQL injection attack, listing the database contents (Oracle) | Enumeration | Practitioner |
 | 11 | Lab 11 — Blind SQL injection with conditional responses | Blind / Boolean-based | Practitioner |
 | 12 | Lab 12 — Blind SQL injection with conditional errors | Blind / Error-based | Practitioner |
