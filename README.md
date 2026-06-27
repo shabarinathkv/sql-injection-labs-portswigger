@@ -28,7 +28,7 @@ Cybersecurity student from India, currently pursuing my degree with a focus on p
 | 07 | Lab 07 — [SQL injection attack, querying the database type and version (Oracle)](lab-07-querying-database-version-oracle.md) | Error-based | Practitioner |
 | 08 | Lab 08 — [SQL injection attack, querying the database type and version (MySQL/MSSQL)](lab-08-querying-database-version-mysql-mssql.md) | Error-based | Practitioner |
 | 09 | Lab 09 — [SQL injection attack, listing the database contents (non-Oracle)](lab-09-listing-database-contents-non-oracle.md) | Enumeration | Practitioner |
-| 10 | Lab 10 — SQL injection attack, listing the database contents (Oracle) | Enumeration | Practitioner |
+| 10 | Lab 10 — [SQL injection attack, listing the database contents (Oracle)](lab-10-listing-database-contents-oracle.md) | Enumeration | Practitioner |
 | 11 | Lab 11 — Blind SQL injection with conditional responses | Blind / Boolean-based | Practitioner |
 | 12 | Lab 12 — Blind SQL injection with conditional errors | Blind / Error-based | Practitioner |
 | 13 | Lab 13 — Visible error-based SQL injection | Error-based | Practitioner |
