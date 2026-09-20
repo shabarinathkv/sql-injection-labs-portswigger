@@ -31,7 +31,7 @@ Cybersecurity student from India, currently pursuing my degree with a focus on p
 | 10 | Lab 10 — [SQL injection attack, listing the database contents (Oracle)](lab-10-listing-database-contents-oracle.md) | Enumeration | Practitioner |
 | 11 | Lab 11 — [Blind SQL injection with conditional responses](lab-11-blind-sqli-conditional-responses.md) | Blind / Boolean-based | Practitioner |
 | 12 | Lab 12 — [Blind SQL injection with conditional errors](lab-12-blind-sqli-conditional-errors.md) | Blind / Error-based | Practitioner |
-| 13 | Lab 13 — Visible error-based SQL injection | Error-based | Practitioner |
+| 13 | Lab 13 — [Visible error-based SQL injection](lab-13-visible-error-based-sqli.md) | Error-based | Practitioner |
 | 14 | Lab 14 — Blind SQL injection with time delays | Blind / Time-based | Practitioner |
 | 15 | Lab 15 — Blind SQL injection with time delays and information retrieval | Blind / Time-based | Practitioner |
 | 16 | Lab 16 — Blind SQL injection with out-of-band interaction | Out-of-band | Expert |
